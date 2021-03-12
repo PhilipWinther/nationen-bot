@@ -41,4 +41,7 @@ FLUSH PRIVILEGES;
 2. run eblinks.py
 3. run get-comments.py
 
+
+-----------------------------------------------
+#BUGS:
 fix ressource problem, it keeps adding new xfvb sessions

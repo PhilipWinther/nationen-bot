@@ -37,7 +37,7 @@ def main():
     cookiesconsent()
     lookforcommentssection()
     lookupcomments()
-    lookupanswers
+    lookupanswers()
     writeurl()
 
 def setup():

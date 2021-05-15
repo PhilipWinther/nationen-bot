@@ -90,8 +90,8 @@ for i in range(1,2):
     headers = random.choice(headers_list)
 
 proxies={
-        'http': 'http://pxu24540-0:0Y9krGAAuk77KhGn66sm@x.botproxy.net:8443',
-        'https': 'http://pxu24540-0:0Y9krGAAuk77KhGn66sm@x.botproxy.net:8080'
+        'http': 'http://',
+        'https': 'http://'
         },
 print("Getting link 1")
 response0 = requests.get(url0, headers=headers)

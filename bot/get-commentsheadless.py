@@ -15,11 +15,11 @@ global db_connection
 
 db_connection = mysql.connector.connect(
   host="localhost",
-  user="nationenbot",
-  password="FsAEg5wbQXvZM6W3KBu2ceSrs96nU53MDhx2v2WsyAtdo3G8FyQg6Sd7CZ64fHNkNuBww6",
+  user="user",
+  password="password",
   charset='utf8',
   use_unicode=True,
-  database="nationen"
+  database="db"
 )
 
 global db_cursor
@@ -58,7 +58,7 @@ def setup():
     #prox.http_proxy = "x.botproxy.net:8080"
     #prox.add_to_capabilities(desired_caps)
   #  options.add_argument('headless')
-    driver = webdriver.Firefox(executable_path='/home/philthestick/nationen-bot/geckodriver')
+    driver = webdriver.Firefox(executable_path='/home/user/nationen-bot/geckodriver')
     driver.implicitly_wait(10)
     print("\n" + "Finished loading driver" + "\n")
 

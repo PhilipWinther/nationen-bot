@@ -14,8 +14,11 @@ Det hele skulle gå lidt hurtigt så lad vær med at mobbe mig for min lorte kod
 
 Hvis du kan lide hvad jeg har lavet så overvej at tippe mig for min indsats også selvom min kode ligner lort.
 
+
 Tip mig her // Tip me here
 <br>
+<br>
+
 <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" width="20px"> 1PEa2cx2mDCSdtKgVKkUuSTQFe5e27YQtf
 
 <img src="https://cryptologos.cc/logos/bitcoin-cash-bch-logo.png" width="20px"> qpzwj9xfffdwasyykxfl8rhp8hn7262z3cc85947aa
@@ -33,3 +36,11 @@ Tip mig her // Tip me here
 <img src="https://cryptologos.cc/logos/monero-xmr-logo.png" width="20px"> 4AMfDLCJpydZb7nBQtXb68B5H2ZNhF1Xjg9mMqraePznRdJtWxP6oVZQVW3Peb4mE7L9jhgEoTDAUfyX5CWc2Sqc5teDFGr
 
 <img src="https://cryptologos.cc/logos/zcash-zec-logo.png" width="20px"> t1fMsUiMvmgv1NR5kmWa7CuDNzNEhqJZ1cF
+
+Hvis du er bekymret for cryptovalutas effekt på miljøet kan du tippe mig med XRP (Ripple). 
+XRP bruger mindre strøm end hele Visa betalingsystemet 
+<br>
+<br>
+<img src="https://cryptologos.cc/logos/xrp-xrp-logo.png?v=010" width="20px"> rNPsVVZwEXBcqFVRFppVrPmtJPuhF6HD98
+
+
